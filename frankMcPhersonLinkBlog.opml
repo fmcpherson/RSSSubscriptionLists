@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Linkblog</title>
+		<ownerProfile>http://frank.frankmcpherson.net</ownerProfile>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Sat, 10 Jan 2015 21:00:42 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="My linkblog" description="" htmlUrl="" language="en" title="Frank McPherson" type="rss" version="RSS2" xmlUrl="http://radio3.io/users/frankm/rss.xml"/>
+		</body>
+	</opml>

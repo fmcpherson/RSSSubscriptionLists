@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Subscription list for user &quot;frank&quot;</title>
+		<ownerProfile>http://frank.frankmcpherson.net</ownerProfile>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Sat, 19 Jul 2014 19:24:13 GMT</dateModified>
+		<expansionState></expansionState>
+		</head>
+	<body>
+		<outline text="Notes From The Cave" description="The new weblog of Frank McPherson" htmlUrl="" language="en" title="Notes From The Cave" type="rss" version="RSS2" xmlUrl="http://fjmnotes.wordpress.com/rss.xml"/>
+		<outline text="Frank McPherson's Work Notes" description="In this outline I" htmlUrl="http://notes.frankmcpherson.net/" language="en-us" title="Frank McPherson" type="rss" version="RSS2" xmlUrl="http://notes.frankmcpherson.net/rss.xml"/>
+		<outline text="Frank McPherson - Google+ Posts" description="Frank McPherson - Google+ Posts" htmlUrl="https://plus.google.com/113088431221028323166/posts" language="en-US" title="Frank McPherson - Google+ Posts" type="rss" version="RSS2" xmlUrl="http://gplus-to-rss.appspot.com/rss/113088431221028323166"/>
+		<outline text="Real Personal Computing" description="Personal computing is not about a device, it's a mashup." htmlUrl="" language="en" title="Real Personal Computing" type="rss" version="RSS2" xmlUrl="http://realpersonalcomputing.com/feed/"/>
+		<outline text="Sports Beat" description="Sports news and commentary by Frank McPherson" htmlUrl="http://sports.frankmcpherson.net/" language="en-us" title="Sports Beat" type="rss" version="RSS2" xmlUrl="http://sports.frankmcpherson.net/rss.xml"/>
+		<outline text="Real Personal Computing Updates" description="Short updates on today's personal computing news." htmlUrl="http://static.frankmcpherson.com/frank/linkblog.html" language="en-us" title="Real Personal Computing Updates" type="rss" version="RSS2" xmlUrl="http://static.frankmcpherson.com/frank/linkblog.xml"/>
+		<outline text="Comments for Learning From Others, Seeking The Way" description="An Emerging Viewpoint" htmlUrl="" language="en-US" title="Comments for Learning From Others, Seeking The Way" type="rss" version="RSS2" xmlUrl="http://the-narthex.org/comments/feed/"/>
+		<outline text="Learning From Others, Seeking The Way" description="An Emerging Viewpoint" htmlUrl="" language="en" title="Learning From Others, Seeking The Way" type="rss" version="RSS2" xmlUrl="http://the-narthex.org/feed/"/>
+		<outline text="Frank's Web Notes" description="Here is a collection of what I find interesting on the web." htmlUrl="http://webnotes.frankmcpherson.net/" language="en-us" title="Frank" type="rss" version="RSS2" xmlUrl="http://webnotes.frankmcpherson.net/rss.xml"/>
+		<outline text="The Narthex" description="My writing about being a follower of Jesus" htmlUrl="http://narthex.frankmcpherson.net/" language="en-us" title="The Narthex" type="rss" version="RSS2" xmlUrl="http://narthex.frankmcpherson.net/rss.xml"/>
+		</body>
+	</opml>
