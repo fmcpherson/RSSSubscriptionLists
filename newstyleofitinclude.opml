@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>newStyleofITInclude</title>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Sat, 05 Sep 2015 21:27:38 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="Include this" type="include" link="https://dl.dropbox.com/s/ybcianei8ixojl0/newStyleOfIt.opml?dl=0"/>
+		</body>
+	</opml>
