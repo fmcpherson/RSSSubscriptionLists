@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>What I Read</title>
+		<ownerProfile>http://frank.frankmcpherson.net</ownerProfile>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Tue, 03 Nov 2015 13:50:53 GMT</dateModified>
+		<expansionState></expansionState>
+		<flEncrypted>false</flEncrypted>
+		<longTitle></longTitle>
+		<font></font>
+		<fontSize></fontSize>
+		<lineHeight></lineHeight>
+		<flCmsRender>false</flCmsRender>
+		<flCmsRenderInBackground>false</flCmsRenderInBackground>
+		<link></link>
+		<typeInsertedNode></typeInsertedNode>
+		<wordpressBlogUrl></wordpressBlogUrl>
+		<description></description>
+		<linkHosting>https://dl.dropbox.com/s/wyvnyddxveexo9g/mysubs.pack</linkHosting>
+		<lastCursor>83</lastCursor>
+		<linkPublicUrl>https://dl.dropbox.com/s/9jl2j1sl585z7gr/mysubs.opml?dl=0</linkPublicUrl>
+		</head>
+	<body>
+		<outline text="aNewDomain" description="Tech news, views and reviews from tech's most trusted voices." htmlUrl="" language="en-US" title="aNewDomain" type="rss" version="RSS2" xmlUrl="http://anewdomain.net/feed/"/>
+		<outline text="Evernote Blog" description="Remember Everything." htmlUrl="" language="en-US" title="Evernote Blog" type="rss" version="RSS2" xmlUrl="http://blog.evernote.com/feed/"/>
+		<outline text="The Open Group Blog" description="Leading the development of open, vendor-neutral IT standards and certifications" htmlUrl="" language="en" title="The Open Group Blog" type="rss" version="RSS2" xmlUrl="http://blog.opengroup.org/feed/"/>
+		<outline text="Doc Searls WeblogDoc Searls Weblog »" description="Holding forth on stuff since 1998" htmlUrl="http://blogs.law.harvard.edu/doc" language="en-US" title="Doc Searls WeblogDoc Searls Weblog »" type="rss" version="RSS2" xmlUrl="http://blogs.law.harvard.edu/docsearls/feed/atom/"/>
+		<outline text="ZDNet | The Mobile Gadgeteer Blog RSS" description="Latest blogs in The Mobile Gadgeteer" htmlUrl="http://www.zdnet.com/" language="en" title="ZDNet | The Mobile Gadgeteer Blog RSS" type="rss" version="RSS2" xmlUrl="http://blogs.zdnet.com/mobile-gadgeteer/wp-rss2.php"/>
+		<outline text="Daring Fireball" description="By John Gruber" htmlUrl="http://daringfireball.net/" language="en-US" title="Daring Fireball" type="rss" version="RSS2" xmlUrl="http://daringfireball.net/index.xml"/>
+		<outline text="Fargo Blog" description="" htmlUrl="http://fargo.io/blog/" language="en-us" title="Fargo Blog" type="rss" version="RSS2" xmlUrl="http://fargo.io/blog/rss.xml"/>
+		<outline text="Liliputing" description="" htmlUrl="http://liliputing.com" language="en-US" title="Liliputing" type="rss" version="RSS2" xmlUrl="http://feedproxy.google.com/Liliputing"/>
+		<outline text="TechBlog" description="Upgrade your geek with Dwight Silverman" htmlUrl="http://blog.chron.com/techblog" language="en-US" title="TechBlog" type="rss" version="RSS2" xmlUrl="http://feeds.chron.com/houstonchronicle/techblogfulltext"/>
+		<outline text="Androinica - A Google Android Blog" description="Google Android phones, news and apps" htmlUrl="" language="en-US" title="Androinica - A Google Android Blog" type="rss" version="RSS2" xmlUrl="http://feeds.feedblitz.com/feedburner/odr6lo"/>
+		<outline text="Android Community" description="Tracking the Android Platform Revolution" htmlUrl="http://androidcommunity.com" language="en-US" title="Android Community" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/AndroidCommunity"/>
+		<outline text="The Becker-Posner Blog" description="Welcome to the new Becker-Posner Blog, maintained by the University of Chicago Law School." htmlUrl="http://www.becker-posner-blog.com/" language="en-US" title="The Becker-Posner Blog" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/becker-posner"/>
+		<outline text="Penelope Trunk Careers" description="Advice at the intersection of work and life" htmlUrl="http://blog.penelopetrunk.com" language="en-US" title="Penelope Trunk Careers" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/BrazenCareerist"/>
+		<outline text="churchrelevance.com" description="Intersection of Theology &amp; Methodology - What We Do vs What Christ Said" htmlUrl="http://churchrelevance.com" language="en-US" title="churchrelevance.com" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/churchrelevance"/>
+		<outline text="CloudAve" description="Software in Business. The Business of Software." htmlUrl="http://www.cloudave.com" language="en-US" title="CloudAve" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/CloudAve"/>
+		<outline text="Computer Science Teacher" description="This is Alfred Thompson's blog about computer science education and related topics." htmlUrl="http://blog.acthompson.net/" language="en-US" title="Computer Science Teacher" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/ComputerScienceTeacher"/>
+		<outline text="Feld Thoughts" description="" htmlUrl="http://www.feld.com/wp" language="en-US" title="Feld Thoughts" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/FeldThoughts"/>
+		<outline text="MLB Trade Rumors" description="" htmlUrl="http://www.mlbtraderumors.com" language="en-US" title="MLB Trade Rumors" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/MlbTradeRumors"/>
+		<outline text="TechCrunch Â» Mobile" description="Startup and Technology News" htmlUrl="http://techcrunch.com" language="en" title="TechCrunch Â» Mobile" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/Mobilecrunch"/>
+		<outline text="MobilityDigest" description="Mobile Technology News &amp; Discussion" htmlUrl="http://mobilitydigest.com" language="en-US" title="MobilityDigest" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/MobilityDigest"/>
+		<outline text="Gigaom" description="" htmlUrl="http://gigaom.com" language="en" title="Gigaom" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/OmMalik"/>
+		<outline text="SCOTUSblog" description="The Supreme Court of the United States blog" htmlUrl="http://www.scotusblog.com" language="en-US" title="SCOTUSblog" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs"/>
+		<outline text="BGR" description="Mobile and tech news, reviews, opinions and insights" htmlUrl="http://bgr.com" language="en" title="BGR" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/TheBoyGeniusReport"/>
+		<outline text="Zatz Not Funny! | All your digital media goodness." description="All your digital media goodness." htmlUrl="" language="en-US" title="Zatz Not Funny! | All your digital media goodness." type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/ZatzNotFunny"/>
+		<outline text="danah boyd | apophenia" description="making connections where none previously existed" htmlUrl="http://www.zephoria.org/thoughts" language="en-US" title="danah boyd | apophenia" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/zephoria/thoughts"/>
+		<outline text="Culture | The Guardian" description="Latest news and comment on culture from the Guardian" htmlUrl="http://www.theguardian.com/us/culture" language="en-gb" title="Culture | The Guardian" type="rss" version="RSS2" xmlUrl="http://feeds.guardian.co.uk/theguardian/culture/rss"/>
+		<outline text="Network Front | The Guardian" description="Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice" htmlUrl="http://www.theguardian.com/uk" language="en-gb" title="Network Front | The Guardian" type="rss" version="RSS2" xmlUrl="http://feeds.guardian.co.uk/theguardian/rss"/>
+		<outline text="Reuters: World News" description="Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks. Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals." htmlUrl="http://www.reuters.com" language="en-us" title="Reuters: World News" type="rss" version="RSS2" xmlUrl="http://feeds.reuters.com/reuters/worldNews"/>
+		<outline text="SlashGear" description="Feeding Your Gadget and Tech Obsessions" htmlUrl="http://www.slashgear.com" language="en-US" title="SlashGear" type="rss" version="RSS2" xmlUrl="http://feeds.slashgear.com/slashgear"/>
+		<outline text="SplatF" description="" htmlUrl="http://www.splatf.com" language="en-US" title="SplatF" type="rss" version="RSS2" xmlUrl="http://feeds.splatf.com/splatf"/>
+		<outline text="FiveThirtyEightFeatures | FiveThirtyEight" description="FiveThirtyEight, Nate Silver's newly launched website at ESPN, uses statistical analysis â hard numbers â to tell compelling stories about politics, science, economics, lifestyle, and sports." htmlUrl="" language="en" title="FiveThirtyEightFeatures | FiveThirtyEight" type="rss" version="RSS2" xmlUrl="http://fivethirtyeight.com/features/feed/"/>
+		<outline text="Notes From The Cave" description="The new weblog of Frank McPherson" htmlUrl="" language="en" title="Notes From The Cave" type="rss" version="RSS2" xmlUrl="http://fjmnotes.wordpress.com/rss.xml"/>
+		<outline text="Ideas from Mark Stout" description="Thoughts of a long time computer user&lt;br&gt; having fun watching technology trends." htmlUrl="http://markstout.blogspot.com/" language="en-US" title="Ideas from Mark Stout" type="rss" version="RSS2" xmlUrl="http://markstout.blogspot.com/feeds/posts/default"/>
+		<outline text="MindShift" description="How we will learn" htmlUrl="http://blogs.kqed.org/mindshift" language="en-US" title="MindShift" type="rss" version="RSS2" xmlUrl="http://mindshift.kqed.org/feed/"/>
+		<outline text="CHC Homepage News" description="CHC Homepage News" htmlUrl="http://mlb.mlb.com" language="en-US" title="CHC Homepage News" type="rss" version="RSS2" xmlUrl="http://mlb.mlb.com/partnerxml/gen/news/rss/chc.xml"/>
+		<outline text="CNET News.com" description="Tech news and business reports by CNET News. Focused oninformation technology, core topics include computers, hardware, software,networking, and Internet media.." htmlUrl="http://news.cnet.com/" language="en-us" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.cnet.com/2547-1_3-0-20.xml"/>
+		<outline text="BBC News - Technology" description="The latest stories from the Technology section of the BBC News web site." htmlUrl="http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" language="en-gb" title="BBC News - Technology" type="rss" version="RSS2" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml"/>
+		<outline text="Om Malik" description="" htmlUrl="" language="en" title="Om Malik" type="rss" version="RSS2" xmlUrl="http://om.co/feed/"/>
+		<outline text="Bryan Berghoef" description="the musings of a pub theologian" htmlUrl="" language="en" title="Bryan Berghoef" type="rss" version="RSS2" xmlUrl="http://pubtheologian.com/feed/"/>
+		<outline text="Re/code" description="" htmlUrl="" language="en" title="Re/code" type="rss" version="RSS2" xmlUrl="http://recode.net/feed/"/>
+		<outline text="Robert Reich" description="ROBERT B. REICH, Chancellor's Professor of Public Policy at the University of California at Berkeley and Senior Fellow at the Blum Center for Developing Economies, was Secretary of Labor in the Clinton administration. Time Magazine named him one of the ten most effective cabinet secretaries of the twentieth century. He has written thirteen books, including the best sellers &quot;Aftershock&quot; and &quot;The Work of Nations.&quot; His latest, &quot;Beyond Outrage,&quot; is now out in paperback. He is also a founding editor of the American Prospect magazine and chairman of Common Cause. His new film, &quot;Inequality for All,&quot; is now available on Netflix, iTunes, DVD, and On Demand." htmlUrl="http://robertreich.org/" language="en-US" title="Robert Reich" type="rss" version="RSS2" xmlUrl="http://robertreich.org/rss"/>
+		<outline text="PCMag.com: Tech Commentary" description="Tech Commentary from the editors of PCMag.com" htmlUrl="http://www.pcmag.com" language="en-us" title="PCMag.com: Tech Commentary" type="rss" version="RSS2" xmlUrl="http://rssnewsapps.ziffdavis.com/PCMAG_commentary.xml"/>
+		<outline text="Scribalishess" description="A blog filled with stories, fountain pens, photography, and the Hebrew Bible" htmlUrl="" language="en" title="Scribalishess" type="rss" version="RSS2" xmlUrl="http://scribalishess.wordpress.com/feed/"/>
+		<outline text="Scripting News" description="" htmlUrl="" language="en" title="Scripting News" type="rss" version="RSS2" xmlUrl="http://scripting.com/rss.xml"/>
+		<outline text="ESPN.com - MLB" description="Latest MLB news from ESPN.com" htmlUrl="http://espn.go.com/mlb/" language="en-us" title="ESPN.com - MLB" type="rss" version="RSS2" xmlUrl="http://sports.espn.go.com/espn/rss/mlb/news"/>
+		<outline text="ESPN.com - NFL" description="Latest NFL news from ESPN.com" htmlUrl="http://espn.go.com/nfl/" language="en-us" title="ESPN.com - NFL" type="rss" version="RSS2" xmlUrl="http://sports.espn.go.com/espn/rss/nfl/news"/>
+		<outline text="Dave Winer's linkblog feed" description="Dave Winer's linkblog. It's my personal contribution to the World Wide River." htmlUrl="http://static.scripting.com/myReallySimple/linkblog.html" language="en-us" title="Dave Winer's linkblog feed" type="rss" version="RSS2" xmlUrl="http://static.reallysimple.org/users/dave/linkblog.xml"/>
+		<outline text="Learning From Others, Seeking The Way" description="An Emerging Viewpoint" htmlUrl="" language="en" title="Learning From Others, Seeking The Way" type="rss" version="RSS2" xmlUrl="http://the-narthex.org/feed/"/>
+		<outline text="ActiveWin.com Headlines" description="The Most Activated Windows Resource" htmlUrl="http://www.activewin.com/" language="en" title="ActiveWin.com Headlines" type="rss" version="RSS2" xmlUrl="http://www.activewin.com/awin/headlines.rss"/>
+		<outline text="blog maverick" description="the mark cuban weblog" htmlUrl="" language="en" title="blog maverick" type="rss" version="RSS2" xmlUrl="http://www.blogmaverick.com/rss.xml"/>
+		<outline text="Brian McLaren EMC" description="" htmlUrl="http://brianmclaren.net/" language="en-us" title="Brian McLaren EMC" type="rss" version="RSS2" xmlUrl="http://www.brianmclaren.net/index.xml"/>
+		<outline text="Brighthand.com Handheld News and Reviews" description="Brighthand.com is a website dedicated to bringing the latest news, reviews and pricing for all types of handheld devices" htmlUrl="http://www.brighthand.com" language="en-US" title="Brighthand.com Handheld News and Reviews" type="rss" version="RSS2" xmlUrl="http://www.brighthand.com/rss.xml"/>
+		<outline text="Engadget RSS Feed" description="Engadget" htmlUrl="http://www.engadget.com" language="en-us" title="Engadget RSS Feed" type="rss" version="RSS2" xmlUrl="http://www.engadget.com/rss.xml"/>
+		<outline text="Eric Mack On-Line" description="www.ericmackonline.com" htmlUrl="http://www.ericmackonline.com/ica/blogs/emonline.nsf/" language="en-us" title="Eric Mack On-Line" type="rss" version="RSS2" xmlUrl="http://www.ericmackonline.com/emo/emonline.nsf/blog.rss"/>
+		<outline text="Uploads from Frank McPherson" description="" htmlUrl="http://www.flickr.com/photos/fmcpherson/" language="en-US" title="Uploads from Frank McPherson" type="rss" version="RSS2" xmlUrl="http://www.flickr.com/services/feeds/photos_public.gne?id=86456829@N00&amp;amp;format=rss_200"/>
+		<outline text="Microsoft Security Bulletins" description="" htmlUrl="http://technet.microsoft.com/security/bulletin" language="en-US" title="Microsoft Security Bulletins" type="rss" version="RSS2" xmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx"/>
+		<outline text="The Many Faces of Mike McBride" description="Blog about Litigation Support, Training, Technology, Travel, Social Media, Careers and any other thing I think of!" htmlUrl="" language="en-US" title="The Many Faces of Mike McBride" type="rss" version="RSS2" xmlUrl="http://www.mikemcbrideonline.com/blogger_rss.xml"/>
+		<outline text="MobileTechReview" description="MobileTechReview.com News and Reviews" htmlUrl="http://www.mobiletechreview.com" language="en-US" title="MobileTechReview" type="rss" version="RSS2" xmlUrl="http://www.mobiletechreview.com/rss/feed.xml"/>
+		<outline text="NBCNews.com: Technology &amp; Science" description="NBCNews.com is a leader in breaking news and original journalism." htmlUrl="http://www.nbcnews.com/id/3032118/ns/technology_and_science/" language="en-us" title="NBCNews.com: Technology &amp; Science" type="rss" version="RSS2" xmlUrl="http://www.msnbc.msn.com/id/3032117/device/rss/"/>
+		<outline text="Michigan Tech 'Latest News'" description="Michigan Tech's latest news" htmlUrl="http://www.mtu.edu/news/latest.rss" language="en-US" title="Michigan Tech 'Latest News'" type="rss" version="RSS2" xmlUrl="http://www.mtu.edu/news/latest.rss"/>
+		<outline text="The Lode at Michigan Tech » Sports" description="Student Newspaper" htmlUrl="" language="en-US" title="The Lode at Michigan Tech » Sports" type="rss" version="RSS2" xmlUrl="http://www.mtulode.com/category/sports/feed/"/>
+		<outline text="Slipstick - Outlook and Exchange News" description="News about tools, tips, code samples, patches, articles, and other resources for Microsoft Outlook and Microsoft Exchange administrators, users, and developers" htmlUrl="http://www.slipstick.com" language="en-us" title="Slipstick - Outlook and Exchange News" type="rss" version="RSS2" xmlUrl="http://www.slipstick.com/rssnews/rssnews.aspx"/>
+		<outline text="Apple news, reviews and how-tos since 2004 RSS Feed" description="Apple news, reviews and how-tos since 2004" htmlUrl="http://www.tuaw.com" language="en-us" title="Apple news, reviews and how-tos since 2004 RSS Feed" type="rss" version="RSS2" xmlUrl="http://www.tuaw.com/rss.xml"/>
+		<outline text="WIL WHEATON dot NET" description="50,000 Monkeys at 50,000 Typewriters Can't Be Wrong" htmlUrl="http://wilwheaton.net" language="en-US" title="WIL WHEATON dot NET" type="rss" version="RSS2" xmlUrl="http://www.wilwheaton.net/mt/index.xml"/>
+		<outline text="Phil Windley's Technometria" description="Building the Internet of My Things" htmlUrl="http://www.windley.com/" language="en-US" title="Phil Windley's Technometria" type="rss" version="RSS2" xmlUrl="http://www.windley.com/rss.xml"/>
+		<outline text="ZDNet | Mobile News Blog RSS" description="Latest blogs in Mobile News" htmlUrl="http://www.zdnet.com/" language="en" title="ZDNet | Mobile News Blog RSS" type="rss" version="RSS2" xmlUrl="http://www.zdnet.com/blog/mobile-news/rss?tag=mantle_skin;content"/>
+		<outline text="Cubby-Blue" description="An illustrated (cartoons, watercolors, digital, gifs, etc.) baseball blog about what it feels like to be a fan of the Chicago Cubs by Chicago artist Tim Souers." htmlUrl="http://www.cubby-blue.com/my_weblog/" language="en-US" title="Cubby-Blue" type="rss" version="RSS2" xmlUrl="https://feeds.feedblitz.com/cubby-blue&amp;x=1"/>
+		<outline text="NewYorker Tech and Science" description="NewYorker Mag Tech and Science" htmlUrl="http://www.newyorker.com/" language="en-US" title="NewYorker Tech and Science" type="rss" version="RSS2" xmlUrl="http://www.newyorker.com/feed/tech"/>
+		<outline text="NewYorker Humor" description="NewYorker Humor" htmlUrl="http://www.newyorker.com/" language="en-US" title="NewYorker Humor" type="rss" version="RSS2" xmlUrl="http://www.newyorker.com/feed/humor"/>
+		<outline text="Deadline Detroit" description="Deadline Detroit" htmlUrl="http://deadlinedetroit.com/" language="en-US" title="Deadline Detroit" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/DeadlineDetroit?format=xml"/>
+		<outline text="Gotta Have Gadget" description="Gotta Have Gadget" htmlUrl="http://www.gottahavegadget.com/" language="en-US" title="Gotta Have Gadget" type="rss" version="RSS2" xmlUrl="http://www.gottahavegadget.com/feed/"/>
+		<outline text="Love My Surface" description="Love My Surface" htmlUrl="http://www.lovemysurface.net/" language="en-US" title="Love My Surface" type="rss" version="RSS2" xmlUrl="http://www.lovemysurface.net/feed/#"/>
+		<outline text="Frank McPherson's Linkblog" created="Mon, 03 Aug 2015 22:54:21 GMT" type="rss" xmlUrl="http://radio3.io/users/frankm/rss.xml"/>
+		<outline text="Real Personal Computing Updates" created="Tue, 11 Aug 2015 18:50:04 GMT" type="rss" xmlUrl="http://realpcupdates.frankmcpherson.net/rss.xml"/>
+		<outline text="Windows 8.1 Field Guide" created="Wed, 12 Aug 2015 13:37:25 GMT" type="rss" xmlUrl="http://windows81book.com/?format=rss"/>
+		<outline text="Hacker News" created="Tue, 18 Aug 2015 01:46:52 GMT" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+		<outline text="The Verge" created="Wed, 26 Aug 2015 14:26:54 GMT" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml"/>
+		<outline text="LaughingSquid" created="Wed, 26 Aug 2015 14:27:54 GMT" type="rss" xmlUrl="http://laughingsquid.com/feed/"/>
+		<outline text="NASA Image of the Day" created="Wed, 26 Aug 2015 14:31:19 GMT" type="rss" xmlUrl="http://www.nasa.gov/rss/dyn/image_of_the_day.rss"/>
+		<outline text="9to5Google" created="Fri, 18 Sep 2015 16:23:43 GMT" type="rss" xmlUrl="http://9to5google.com/feed/"/>
+		<outline text="The Gadgeteer" created="Tue, 20 Oct 2015 18:51:09 GMT" type="rss" xmlUrl="http://the-gadgeteer.com/feed/?dualfeed=2"/>
+		<outline text="ErgoNotes" created="Thu, 29 Oct 2015 17:30:57 GMT" type="rss" xmlUrl="http://ergonotes.com/feed/"/>
+		<outline text="Turtl" created="Fri, 30 Oct 2015 15:41:21 GMT" type="rss" xmlUrl="http://turtlapp.tumblr.com/rss"/>
+		<outline text="Andy Ihnatko" created="Tue, 03 Nov 2015 13:50:18 GMT" type="rss" xmlUrl="http://ihnatko.com/feed/"/>
+		</body>
+	</opml>
