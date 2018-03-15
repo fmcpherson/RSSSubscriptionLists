@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CNN Headlines</title>
+		<dateModified>Thu, 11 May 2017 19:39:08 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="CNN Top Stories" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+		</body>
+	</opml>

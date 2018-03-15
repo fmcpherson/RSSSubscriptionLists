@@ -1,0 +1,24 @@
+{
+	"maxRiverItems": 300,
+	"flAddItemsFromNewSubs": false,
+	"homePage": { 
+		"panels": [
+			{
+				"title": "Main",
+				"river": "4-MyLOSubs.js"
+				},
+			{
+				"title": "Hacker News",
+				"river": "hn.js"
+				},
+			{
+                                "title": "CNN",
+                                "river": "cnn.js"
+                                },
+			{
+				"title": "Quotes",
+				"river": "quotes.js"
+				}
+			]
+		}
+	}
