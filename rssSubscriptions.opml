@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>rssSubscriptions</title>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateModified>Wed, 24 Mar 2021 14:24:00 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>98</lastCursor>
+		<urlUpdateSocket>ws://storage2.littleoutliner.com:1242/</urlUpdateSocket>
+		<dateCreated>Thu, 25 Jun 2020 13:14:38 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="aNewDomain" description="Tech news, views and reviews from tech's most trusted voices." htmlUrl="" language="en-US" title="aNewDomain" type="rss" version="RSS2" xmlUrl="http://anewdomain.net/feed/" created="Sat, 04 Feb 2017 20:45:18 GMT"/>
+		<outline text="Daring Fireball" description="By John Gruber" htmlUrl="http://daringfireball.net/" language="en-US" title="Daring Fireball" type="rss" version="RSS2" xmlUrl="http://daringfireball.net/index.xml" created="Sat, 04 Feb 2017 21:05:50 GMT"/>
+		<outline text="Liliputing" description="" htmlUrl="http://liliputing.com" language="en-US" title="Liliputing" type="rss" version="RSS2" xmlUrl="http://feedproxy.google.com/Liliputing" created="Sat, 04 Feb 2017 21:05:55 GMT"/>
+		<outline text="Android Community" description="Tracking the Android Platform Revolution" htmlUrl="http://androidcommunity.com" language="en-US" title="Android Community" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/AndroidCommunity" created="Sat, 04 Feb 2017 21:06:00 GMT"/>
+		<outline text="Penelope Trunk Careers" description="Advice at the intersection of work and life" htmlUrl="http://blog.penelopetrunk.com" language="en-US" title="Penelope Trunk Careers" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/BrazenCareerist" created="Thu, 18 Jan 2018 14:33:21 GMT"/>
+		<outline text="churchrelevance.com" description="Intersection of Theology &amp; Methodology - What We Do vs What Christ Said" htmlUrl="http://churchrelevance.com" language="en-US" title="churchrelevance.com" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/churchrelevance" created="Fri, 10 Feb 2017 20:16:24 GMT"/>
+		<outline text="CloudAve" description="Software in Business. The Business of Software." htmlUrl="http://www.cloudave.com" language="en-US" title="CloudAve" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/CloudAve" created="Sat, 04 Feb 2017 21:06:02 GMT"/>
+		<outline text="Computer Science Teacher" description="This is Alfred Thompson's blog about computer science education and related topics." htmlUrl="http://blog.acthompson.net/" language="en-US" title="Computer Science Teacher" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/ComputerScienceTeacher" created="Thu, 18 Jan 2018 14:33:22 GMT"/>
+		<outline text="Feld Thoughts" description="" htmlUrl="http://www.feld.com/wp" language="en-US" title="Feld Thoughts" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/FeldThoughts" created="Thu, 18 Jan 2018 14:33:22 GMT"/>
+		<outline text="MLB Trade Rumors" description="" htmlUrl="http://www.mlbtraderumors.com" language="en-US" title="MLB Trade Rumors" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/MlbTradeRumors"/>
+		<outline text="TechCrunch Â» Mobile" description="Startup and Technology News" htmlUrl="http://techcrunch.com" language="en" title="TechCrunch Â» Mobile" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/Mobilecrunch" created="Thu, 18 Jan 2018 14:33:42 GMT"/>
+		<outline text="SCOTUSblog" description="The Supreme Court of the United States blog" htmlUrl="http://www.scotusblog.com" language="en-US" title="SCOTUSblog" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs"/>
+		<outline text="BGR" description="Mobile and tech news, reviews, opinions and insights" htmlUrl="http://bgr.com" language="en" title="BGR" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/TheBoyGeniusReport"/>
+		<outline text="Zatz Not Funny! | All your digital media goodness." description="All your digital media goodness." htmlUrl="" language="en-US" title="Zatz Not Funny! | All your digital media goodness." type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/ZatzNotFunny" created="Sat, 04 Feb 2017 21:06:17 GMT"/>
+		<outline text="Network Front | The Guardian" description="Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice" htmlUrl="http://www.theguardian.com/uk" language="en-gb" title="Network Front | The Guardian" type="rss" version="RSS2" xmlUrl="http://feeds.guardian.co.uk/theguardian/rss"/>
+		<outline text="Reuters: World News" description="Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks. Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals." htmlUrl="http://www.reuters.com" language="en-us" title="Reuters: World News" type="rss" version="RSS2" xmlUrl="http://feeds.reuters.com/reuters/worldNews"/>
+		<outline text="SlashGear" description="Feeding Your Gadget and Tech Obsessions" htmlUrl="http://www.slashgear.com" language="en-US" title="SlashGear" type="rss" version="RSS2" xmlUrl="http://feeds.slashgear.com/slashgear" created="Sat, 04 Feb 2017 21:06:22 GMT"/>
+		<outline text="FiveThirtyEightFeatures | FiveThirtyEight" description="FiveThirtyEight, Nate Silver's newly launched website at ESPN, uses statistical analysis â hard numbers â to tell compelling stories about politics, science, economics, lifestyle, and sports." htmlUrl="" language="en" title="FiveThirtyEightFeatures | FiveThirtyEight" type="rss" version="RSS2" xmlUrl="http://fivethirtyeight.com/features/feed/" created="Fri, 27 Dec 2019 20:50:39 GMT"/>
+		<outline text="MindShift" description="How we will learn" htmlUrl="http://blogs.kqed.org/mindshift" language="en-US" title="MindShift" type="rss" version="RSS2" xmlUrl="http://mindshift.kqed.org/feed/"/>
+		<outline text="CHC Homepage News" description="CHC Homepage News" htmlUrl="http://mlb.mlb.com" language="en-US" title="CHC Homepage News" type="rss" version="RSS2" xmlUrl="http://mlb.mlb.com/partnerxml/gen/news/rss/chc.xml"/>
+		<outline text="CNET News.com" description="Tech news and business reports by CNET News. Focused oninformation technology, core topics include computers, hardware, software,networking, and Internet media.." htmlUrl="http://news.cnet.com/" language="en-us" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.cnet.com/2547-1_3-0-20.xml"/>
+		<outline text="BBC News - Technology" description="The latest stories from the Technology section of the BBC News web site." htmlUrl="http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" language="en-gb" title="BBC News - Technology" type="rss" version="RSS2" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml"/>
+		<outline text="Om Malik" description="" htmlUrl="" language="en" title="Om Malik" type="rss" version="RSS2" xmlUrl="http://om.co/feed/" created="Tue, 25 Apr 2017 14:09:06 GMT"/>
+		<outline text="Bryan Berghoef" description="the musings of a pub theologian" htmlUrl="" language="en" title="Bryan Berghoef" type="rss" version="RSS2" xmlUrl="http://pubtheologian.com/feed/" created="Thu, 18 Jan 2018 14:34:49 GMT"/>
+		<outline text="Scripting News" description="" htmlUrl="" language="en" title="Scripting News" type="rss" version="RSS2" xmlUrl="http://scripting.com/rss.xml" created="Tue, 16 May 2017 19:40:54 GMT"/>
+		<outline text="Learning From Others, Seeking The Way" description="An Emerging Viewpoint" htmlUrl="" language="en" title="Learning From Others, Seeking The Way" type="rss" version="RSS2" xmlUrl="http://the-narthex.org/feed/"/>
+		<outline text="ActiveWin.com Headlines" description="The Most Activated Windows Resource" htmlUrl="http://www.activewin.com/" language="en" title="ActiveWin.com Headlines" type="rss" version="RSS2" xmlUrl="http://www.activewin.com/awin/headlines.rss" created="Sat, 04 Feb 2017 21:06:43 GMT"/>
+		<outline text="Engadget RSS Feed" description="Engadget" htmlUrl="http://www.engadget.com" language="en-us" title="Engadget RSS Feed" type="rss" version="RSS2" xmlUrl="http://www.engadget.com/rss.xml" created="Fri, 10 Feb 2017 20:17:02 GMT"/>
+		<outline text="MobileTechReview" description="MobileTechReview.com News and Reviews" htmlUrl="http://www.mobiletechreview.com" language="en-US" title="MobileTechReview" type="rss" version="RSS2" xmlUrl="http://www.mobiletechreview.com/rss/feed.xml" created="Fri, 10 Feb 2017 20:17:05 GMT"/>
+		<outline text="WIL WHEATON dot NET" description="50,000 Monkeys at 50,000 Typewriters Can't Be Wrong" htmlUrl="http://wilwheaton.net" language="en-US" title="WIL WHEATON dot NET" type="rss" version="RSS2" xmlUrl="http://www.wilwheaton.net/mt/index.xml" created="Sat, 04 Feb 2017 21:07:01 GMT"/>
+		<outline text="Cubby-Blue" description="An illustrated (cartoons, watercolors, digital, gifs, etc.) baseball blog about what it feels like to be a fan of the Chicago Cubs by Chicago artist Tim Souers." htmlUrl="http://www.cubby-blue.com/my_weblog/" language="en-US" title="Cubby-Blue" type="rss" version="RSS2" xmlUrl="https://feeds.feedblitz.com/cubby-blue&amp;x=1"/>
+		<outline text="NewYorker Tech and Science" description="NewYorker Mag Tech and Science" htmlUrl="http://www.newyorker.com/" language="en-US" title="NewYorker Tech and Science" type="rss" version="RSS2" xmlUrl="http://www.newyorker.com/feed/tech"/>
+		<outline text="NewYorker Humor" description="NewYorker Humor" htmlUrl="http://www.newyorker.com/" language="en-US" title="NewYorker Humor" type="rss" version="RSS2" xmlUrl="http://www.newyorker.com/feed/humor" created="Fri, 27 Dec 2019 20:50:58 GMT"/>
+		<outline text="Love My Surface" description="Love My Surface" htmlUrl="http://www.lovemysurface.net/" language="en-US" title="Love My Surface" type="rss" version="RSS2" xmlUrl="http://www.lovemysurface.net/feed/#" created="Fri, 27 Dec 2019 20:51:03 GMT"/>
+		<outline text="Hacker News" created="Tue, 18 Aug 2015 01:46:52 GMT" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+		<outline text="The Verge" created="Wed, 26 Aug 2015 14:26:54 GMT" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml"/>
+		<outline text="LaughingSquid" created="Wed, 26 Aug 2015 14:27:54 GMT" type="rss" xmlUrl="http://laughingsquid.com/feed/"/>
+		<outline text="9to5Google" created="Fri, 18 Sep 2015 16:23:43 GMT" type="rss" xmlUrl="http://9to5google.com/feed/"/>
+		<outline text="The Gadgeteer" created="Tue, 20 Oct 2015 18:51:09 GMT" type="rss" xmlUrl="http://the-gadgeteer.com/feed/?dualfeed=2"/>
+		<outline text="WCHA" created="Sun, 06 Mar 2016 02:34:56 GMT" type="rss" xmlUrl="http://www.wcha.com/men/topstories.xml"/>
+		<outline text="nixCraft" created="Mon, 25 Apr 2016 19:29:35 GMT" type="rss" xmlUrl="http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks"/>
+		<outline text="Scott's Weblog" created="Mon, 25 Apr 2016 19:29:35 GMT" type="rss" xmlUrl="http://feeds.scottlowe.org/slowe/content/feed/"/>
+		<outline text="Alex Ellis" created="Mon, 25 Apr 2016 19:29:35 GMT" type="rss" xmlUrl="http://blog.alexellis.io/rss/"/>
+		<outline text="ACLU blogs" type="rss" xmlUrl="https://www.aclu.org/blog-feed/all/feed" created="Fri, 10 Feb 2017 20:15:29 GMT"/>
+		<outline text="Macdrifter" type="rss" xmlUrl="http://macdrifter.com/feeds/all.atom.xml" created="Tue, 16 May 2017 19:40:50 GMT"/>
+		<outline text="Macstories" created="Tue, 27 Jun 2017 17:53:57 GMT" type="rss" xmlUrl="https://www.macstories.net/feed/"/>
+		<outline text="Matthew Ingram" created="Fri, 30 Jun 2017 15:06:05 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/Mathewingramcom/work"/>
+		<outline text="Stratechery" created="Fri, 30 Jun 2017 19:59:39 GMT" type="rss" xmlUrl="http://stratechery.com/feed/"/>
+		<outline text="kottke" created="Mon, 02 Apr 2018 15:44:09 GMT" type="rss" xmlUrl="http://feeds.kottke.org/main"/>
+		<outline text="Coding Education Blog" created="Tue, 25 Jul 2017 14:24:38 GMT" type="rss" xmlUrl="https://computinged.wordpress.com/feed/"/>
+		<outline text="Garth CS Education Blog" created="Tue, 25 Jul 2017 15:30:43 GMT" type="rss" xmlUrl="https://gflint.wordpress.com/feed/"/>
+		<outline text="DXC Blogs" created="Wed, 02 Aug 2017 19:25:06 GMT" type="rss" xmlUrl="https://blogs.dxc.technology/feed/"/>
+		<outline text="Manton Reece" created="Tue, 12 Dec 2017 17:49:14 GMT" type="rss" xmlUrl="https://www.manton.org/feed.xml"/>
+		<outline text="Birchtree" created="Tue, 12 Dec 2017 18:33:16 GMT" type="rss" xmlUrl="https://birchtree.me/"/>
+		<outline text="Linux Mint" created="Sat, 06 Jan 2018 19:11:40 GMT" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2"/>
+		<outline text="Becky Hansmeyer" created="Thu, 25 Jan 2018 13:40:20 GMT" type="rss" xmlUrl="http://beckyhansmeyer.com/feed/"/>
+		<outline text="iPad Diary" created="Wed, 31 Jan 2018 18:03:55 GMT" type="rss" xmlUrl="https://www.macstories.net/tag/ipad-diaries/feed/"/>
+		<outline text="CNN Headlines" created="Wed, 14 Mar 2018 20:22:12 GMT" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+		<outline text="Inessential" created="Mon, 02 Apr 2018 15:46:05 GMT" type="rss" xmlUrl="http://inessential.com/xml/rss.xml"/>
+		<outline text="About Chromebooks" created="Mon, 16 Apr 2018 14:19:17 GMT" type="rss" xmlUrl="http://www.aboutchromebooks.com/feed/"/>
+		<outline text="Rosemary Orchard" created="Mon, 30 Apr 2018 21:14:21 GMT" type="rss" xmlUrl="https://www.rosemaryorchard.com/blog.rss"/>
+		<outline text="Jack Baty" created="Fri, 11 May 2018 14:57:52 GMT" type="rss" xmlUrl="https://www.baty.net/index.xml"/>
+		<outline text="Frank McPherson" created="Tue, 26 Jun 2018 19:56:20 GMT" type="rss" xmlUrl="http://frankmcpherson.blog/feed.xml"/>
+		<outline text="The Weekly List" created="Mon, 23 Jul 2018 21:42:31 GMT" type="rss" xmlUrl="https://theweeklylist.org/feed/?post_type=weekly-list"/>
+		<outline text="Scott Lowe" created="Mon, 30 Jul 2018 20:25:27 GMT" type="rss" xmlUrl="http://feeds.scottlowe.org/slowe/content/feed/"/>
+		<outline text="Two-Bit History" created="Tue, 16 Oct 2018 19:25:07 GMT" type="rss" xmlUrl="https://twobithistory.org/feed.xml"/>
+		<outline text="Mike Caulfield" created="Tue, 11 Dec 2018 00:06:40 GMT" type="rss" xmlUrl="https://hapgood.us/feed/"/>
+		<outline text="Flavio Copes" created="Tue, 08 Jan 2019 22:26:51 GMT" type="rss" xmlUrl="https://flaviocopes.com/index.xml"/>
+		<outline text="Greg Palast" created="Tue, 12 Feb 2019 00:53:26 GMT" type="rss" xmlUrl="https://feeds.feedburner.com/gregpalast-articles"/>
+		<outline text="Scobleizer" created="Thu, 07 Mar 2019 16:12:15 GMT" type="rss" xmlUrl="https://scobleizer.blog/feed/"/>
+		<outline text="Current Status" created="Sun, 10 Mar 2019 17:55:58 GMT" type="rss" xmlUrl="https://currentstatus.io/rss"/>
+		<outline text="Kimberly Hirsch" created="Fri, 05 Apr 2019 12:58:23 GMT" type="rss" xmlUrl="http://kimberlyhirsh.com/feed/"/>
+		<outline text="Chris Aldrich" created="Fri, 05 Apr 2019 13:21:21 GMT" type="rss" xmlUrl="https://boffosocko.com/feed/"/>
+		<outline text="xkcd" created="Mon, 08 Apr 2019 20:07:56 GMT" type="rss" xmlUrl="http://xkcd.com/rss.xml"/>
+		<outline text="Jessie Fraz" created="Tue, 23 Apr 2019 23:01:55 GMT" type="rss" xmlUrl="https://blog.jessfraz.com/index.xml"/>
+		<outline text="Charlie Bess" created="Tue, 04 Jun 2019 21:42:12 GMT" type="rss" xmlUrl="https://cebess.wordpress.com/feed/"/>
+		<outline text="Ben's Place" created="Wed, 27 Nov 2019 18:41:36 GMT" type="rss" xmlUrl="https://www.hardill.me.uk/wordpress/feed/"/>
+		<outline text="LinuxLinks" created="Thu, 12 Dec 2019 19:10:24 GMT" type="rss" xmlUrl="https://www.linuxlinks.com/feed/"/>
+		<outline text="Raj Singh" created="Thu, 19 Dec 2019 22:28:21 GMT" type="rss" xmlUrl="https://rajsinghla.com/feed"/>
+		<outline text="The Grumpy Economist" created="Mon, 23 Dec 2019 01:11:35 GMT" type="rss" xmlUrl="https://johnhcochrane.blogspot.com/feeds/posts/default"/>
+		<outline text="Praxis" created="Fri, 27 Dec 2019 20:49:45 GMT" type="rss" xmlUrl="https://praxis.fortelabs.co/feed/"/>
+		<outline text="Cheri Baker" created="Wed, 01 Jan 2020 19:25:19 GMT" type="rss" xmlUrl="https://www.cheribaker.com/feed"/>
+		<outline text="Raspberry Pi Spy" created="Thu, 02 Jan 2020 17:06:37 GMT" type="rss" xmlUrl="https://www.raspberrypi-spy.co.uk/feed/"/>
+		<outline text="Raspberry Pi Pod" created="Thu, 02 Jan 2020 18:40:02 GMT" type="rss" xmlUrl="https://www.recantha.co.uk/blog/?feed=rss2"/>
+		<outline text="Raspberry Pi Foundation" created="Thu, 02 Jan 2020 18:44:24 GMT" type="rss" xmlUrl="https://www.raspberrypi.org/feed/"/>
+		<outline text="Frank's Reading Updates" created="Mon, 27 Jan 2020 01:58:29 GMT" type="rss" xmlUrl="https://www.goodreads.com/user_status/list/5382435-frank-mcpherson?format=rss"/>
+		<outline text="Six Colors" created="Mon, 27 Jan 2020 01:58:29 GMT" type="rss" xmlUrl="http://feedpress.me/sixcolors?type=xml"/>
+		<outline text="Dana Blankenhorn" created="Tue, 15 Sep 2020 02:48:51 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/danablankenhorn/gfvj"/>
+		<outline text="Zeynep Tufekci" created="Mon, 30 Nov 2020 19:28:23 GMT" type="rss" xmlUrl="https://www.inoreader.com/stream/user/1005750063/tag/Zeynep%20Tufekci"/>
+		<outline text="Nicholas Bate" created="Mon, 14 Dec 2020 14:31:02 GMT" type="rss" xmlUrl="https://feeds.feedburner.com/NicholasBate"/>
+		<outline text="A Large Regular" created="Mon, 14 Dec 2020 14:35:16 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/PbjeJ"/>
+		<outline text="Cory Doctorow" created="Thu, 14 Jan 2021 14:18:12 GMT" type="rss" xmlUrl="https://pluralistic.net/feed/"/>
+		<outline text="POTUS" created="Thu, 21 Jan 2021 14:43:32 GMT" type="rss" xmlUrl="https://www.whitehouse.gov/feed/"/>
+		<outline text="Naked Capitalism" created="Thu, 21 Jan 2021 19:14:46 GMT" type="rss" xmlUrl="https://feeds.feedburner.com/NakedCapitalism"/>
+		<outline text="Shekhar Gulati " created="Fri, 22 Jan 2021 21:57:58 GMT" type="rss" xmlUrl="https://shekhargulati.com/feed/"/>
+		<outline text="OneThingWell" created="Mon, 25 Jan 2021 15:23:40 GMT" type="rss" xmlUrl="https://onethingwell.org/rss"/>
+		<outline text="Jesse Rogers Twitter" created="Fri, 12 Feb 2021 20:13:53 GMT" type="rss" xmlUrl="https://nitter.42l.fr/JesseRogersESPN/rss"/>
+		<outline text="Mike Caulfield Twitter" created="Fri, 12 Feb 2021 20:15:24 GMT" type="rss" xmlUrl="https://nitter.42l.fr/holden/rss"/>
+		<outline text="Andrew Shell" created="Wed, 24 Mar 2021 14:23:39 GMT" type="rss" xmlUrl="https://blog.andrewshell.org/rss.xml"/>
+		</body>
+	</opml>
